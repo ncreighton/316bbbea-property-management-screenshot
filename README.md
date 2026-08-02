@@ -22,8 +22,6 @@ Stop wasting hours writing inspection reports and chasing down scattered screens
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://mythicalgamer2.gumroad.com/l/qneexz)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/aFa8wP7r16Ak5tu33mcZp28)** — Secure checkout
 
 ## Installation
@@ -35,7 +33,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://mythicalgamer2.gumroad.com/l/qneexz)
 
 ## License
 
